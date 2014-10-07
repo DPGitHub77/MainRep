@@ -17,7 +17,7 @@ sap.ui.core.UIComponent.extend("demo.Component", {
 			
 			"serviceConfig" : {
 				name: "",
-				serviceUrl: "http://172.16.101.162:8080/gateway/odata/SAP/TESTSERV001;v=1"
+				serviceUrl: "http://172.16.213.135:8080/gateway/odata/SAP/DEMO;v=1"
 			}
 		},
 
