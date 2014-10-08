@@ -1,0 +1,16 @@
+{
+  "generation": [
+    {
+      "templateName": "SAPUI5 Mobile App Project",
+      "templateVersion": "1.0.1",
+      "dateTimeStamp": "Wed, 08 Oct 2014 12:19:53 GMT"
+    }
+  ],
+  "translation": {
+    "translationDomain": "",
+    "supportedLanguages": "en,fr,de",
+    "defaultLanguage": "en",
+    "defaultI18NPropertyFile": "i18n.properties",
+    "resourceModelName": "i18n"
+  }
+}
