@@ -1,10 +1,9 @@
-<core:View xmlns:core="sap.ui.core" 
-	xmlns:mvc="sap.ui.core.mvc" 
-	xmlns="sap.m" controllerName="view.Customers" 
-	xmlns:html="http://www.w3.org/1999/xhtml">
-	<Page title="Title">
-		<content>
-		
-		</content>
-	</Page>
-</core:View>
+<sap.ui.core.mvc:View controllerName="view.Customers"
+    xmlns="sap.m"
+    xmlns:sap.ui.core="sap.ui.core" xmlns:sap.ui.core.mvc="sap.ui.core.mvc" >
+    <Page title="Customers">
+        <content>
+            <Button id="button0" text="Button" width="100px"></Button>
+        </content>
+    </Page>
+</sap.ui.core.mvc:View>
